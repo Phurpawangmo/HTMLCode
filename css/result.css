@@ -1,0 +1,32 @@
+.container {
+  font-family: "Raleway", sans-serif;
+    margin:40px;
+    padding: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  thead {
+    background-color: #0d7b9a;
+    color: white;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  
+  td {
+    vertical-align: top;
+  }
+  
